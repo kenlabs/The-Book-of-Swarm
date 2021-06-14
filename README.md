@@ -19,6 +19,34 @@ the book of Swarm
 storage and communication infrastructure for self-sovereign digital society 
 back-end stack for the decentralised web
 
+https://medium.com/ethereum-swarm/the-book-of-swarm-4922c2b40423
+
+
+
+swarm架构：
+
+https://blog.datafund.net/swarm-architecture-a-view-from-above-422945b14435
+
+https://medium.com/fair-data-society/swarm-architecture-30-000-feet-f7532ea989c4
+
+https://medium.com/fair-data-society/swarm-services-and-protocols-892b4e72cf74
+
+https://blog.datafund.net/swarm-distributed-pre-image-archive-dpa-b13f5c683f0a
+
+
+
+https://www.mycryptopedia.com/ethereum-swarm-a-detailed-guide/
+
+https://swarm-guide.readthedocs.io/en/incentives/
+
+https://swarm-guide.readthedocs.io/en/latest/architecture.html
+
+https://medium.com/fair-data-society/specification-for-fairdrive-743e2195d4d0
+
+https://fluence.network/docs/book/introduction/overview.html
+
+https://github.com/ethersphere/swarm-guide/blob/master/contents/architecture.rst
+
 
 
 目标受众
