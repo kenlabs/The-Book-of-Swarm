@@ -211,6 +211,7 @@ ii design and architecture
 ### 9.7 Garbage collection 216
 ## 10 api-s 218
 ### 10.1 External API requirements
+
 10.1.1 Signer 219       
 10.1.2 Blockchain 219       
 10.1.3 User input 220       
